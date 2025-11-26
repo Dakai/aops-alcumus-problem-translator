@@ -10,6 +10,6 @@ Key features:
 *   **Accurate:** Leverages powerful translation and LaTeX rendering libraries for high-quality results. Improves learning and problem-solving accessibility for Chinese-speaking users.
 
 To Use:
-1. Install the userscript via Tampermonkey or another userscript manager.
+1. Install the userscript from GreasyFork.org [Link](https://greasyfork.org/en/scripts/557009-aops-alcumus-problem-translator)
 2. **Important: Provide your OpenRouter API Key in the userscript source code.** It can optionally make use of your Google Gemini API Key if available and desired.
 3. Visit an AoPS Alcumus problem page to see the translation button.
