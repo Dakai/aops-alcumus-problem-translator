@@ -1,5 +1,7 @@
 This userscript enhances the Art of Problem Solving (AoPS) Alcumus experience by adding a button that translates problem descriptions into Simplified Chinese, while preserving LaTeX formatting for mathematical notation.
 
+![Screenshot](https://raw.githubusercontent.com/Dakai/aops-alcumus-problem-translator/refs/heads/main/Screenshot_20251127_002727.png)
+
 Key features:
 
 *   **Translation:** Translates the Alcumus problem text (including ALT text from images) to Simplified Chinese using the Gemini API (optional, requires API key) or the OpenRouter API.
